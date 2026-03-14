@@ -4,4 +4,4 @@ services:
   edutrack:
     build: .
     ports:
-      - "8080:8000"
+      - "8081:8000"
